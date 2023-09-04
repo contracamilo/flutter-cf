@@ -1,4 +1,4 @@
-# Flluter Essentials
+# Fluter Essentials
 
 A new Flutter project.
 
