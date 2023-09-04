@@ -1,4 +1,4 @@
-# cf_curse
+# Flluter Essentials
 
 A new Flutter project.
 
